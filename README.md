@@ -26,6 +26,9 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Snigdhaaghosh&show_icons=true&theme=tokyonight&hide_rank=true" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Snigdhaaghosh&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Snigdhaaghosh&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+</p>
+
 </p>
 
 ##  Connect with me  
