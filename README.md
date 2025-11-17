@@ -1,6 +1,6 @@
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWp6bXpjdmQ5azdmZ202MHBvMm91Z21uNTF4ZGZ5bGJ4bDA1b2d3ZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/okFG5aJWqRGMYXoKTD/giphy.gif" width="100%" />
 
-<h1 align="center">Hi 👋, I’m Snigdha Ghosh</h1>
+<h1 align="center">Hi 👋, I’m Snigdha </h1>
 <h3 align="center">Aspiring Full Stack Developer(MERN) | ML Enthusiast | B.Tech CSE (AIML) Student</h3>
 
 <p align="center">
