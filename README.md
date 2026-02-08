@@ -18,7 +18,7 @@
 
 </p>
 
-- 🔭 Currently working on **AgroSarthi** – a farmer based agriculte web app  
+- 🔭 Currently working on **AgroSarthi** – a farmer based agriculture web app  
 - 👯 Looking to collaborate on full stack + web dev projects  
 - 🏆 Participated in 2x hackathons. Won 2x inter-college model making competitions(Software Track)
 
